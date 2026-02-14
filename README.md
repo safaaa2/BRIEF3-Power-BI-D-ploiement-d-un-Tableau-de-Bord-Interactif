@@ -6,6 +6,7 @@ La direction vous demande de construire un tableau de bord Power BI interactif, 
 Centraliser et structurer les données provenant de plusieurs sources opérationnelles.
 Permettre l’analyse par différents segments (clients, produits, fournisseurs, localisation, périodes).
 Fournir des KPI et visualisations dynamiques pour faciliter le suivi et la prise de décision.
+
 👉 Votre mission : Construire un rapport Power BI professionnel et interactif, structuré, avec filtres, signets, mesures et visualisations claires pour analyser efficacement les données métiers.
 
 🎯 Objectifs majeurs du projet
