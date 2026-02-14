@@ -1,3 +1,6 @@
+Power BI – Déploiement d’un Tableau de Bord Interactif
+
+
 Contexte du projet
 Vous travaillez en tant qu’analyste de données dans une entreprise souhaitant améliorer la prise de décision grâce à des rapports dynamiques. Jusqu’à présent, les informations étaient diffusées via des fichiers Excel statiques et manuels, ce qui limitait l’analyse et le suivi des indicateurs clés.
 
